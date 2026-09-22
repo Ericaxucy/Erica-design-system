@@ -1,16 +1,7 @@
 # Personal Design Skill
 
 一套给 AI 看的个人品牌设计系统。
-
-**ESTHER不二** · [小红书](https://www.xiaohongshu.com/user/profile/55c6c7695894460904f87b47?m_source=pinpai) · [Twitter / X](https://x.com/SjwEsther)
-
-![Esther Design System overview](assets/design-system-overview-final.png)
-
-> **开源的是方法论，不是我的身份。**
->
-> 本仓库开源的是我整理出的设计方法论、设计规范、工作流程、布局模式、组件模式和相关模板。你可以基于 CC BY-NC-SA 4.0 学习、修改和分享这些内容，但这不代表你获得了使用 **ESTHER不二 / Esther / 不二 / esthersjw** 的姓名、头像、IP形象、Logo、品牌标识、个人账号标识或本人形象进行创作、运营、发布、商业合作或对外背书的许可。
->
-> 使用这套系统时，请替换为你自己的姓名、头像、IP和品牌信息。任何使用本仓库内容制作的账号、作品、产品、课程、Agent 或服务，都不得让人误以为由我制作、授权、合作或背书。协议要求的署名仅表示内容来源，不等于身份授权。
+课程、Agent 或服务，都不得让人误以为由我制作、授权、合作或背书。协议要求的署名仅表示内容来源，不等于身份授权。
 
 把审美写成操作手册，AI 每次帮你做页面时必须翻这本手册，不能自由发挥。**限制 AI 的自由度 = 保证输出质量。**
 
